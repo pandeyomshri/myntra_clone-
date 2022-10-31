@@ -19,10 +19,11 @@ margin: 0;padding: 0;
     padding: 0px 12vw;
 }
 .containerheader{
-    margin: auto;
+   
     padding: 0px 12vw;
-
-nav ul
+}
+nav ul li{
+    list-style-type: none;
     padding: 0 15px;
     
 
