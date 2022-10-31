@@ -20,11 +20,11 @@ margin: 1px;padding: 1px;
 }
 .containerheader{
    
-    padding: 0px 12vw;
+    padding: 5px 20vw;
 }
 nav ul li{
     list-style-type: none;
-    padding: 0 15px;
+    padding: 2 15px;
     
 
 
@@ -32,29 +32,29 @@ nav ul li{
 
 .rightbox{
     display: flex;
-    margin: 12px;
+    margin: 30px;
     background color: black;
 }
-@media(max-width:1000px)
+@media(max-width:800px)
 {
     header{
         height: 137pxpx;
     }
     .img-x{
-        height: 30vh;
+        height: 300vh;
         /* width: 12vw; */
         margin: 0px 5px;
         border-radius: 25px;
     }
     nav{
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     }
     header{
     position: relative;
     top: 1;
     background: white;
-    box-shadow: rgba(1, 0, 0, 0.24) 0px 3px 8px;
+    box-shadow: rgba(1, 1, 0, 0.24) 0px 3px 8px;
 }
     .right{
     flex-direction: column;
