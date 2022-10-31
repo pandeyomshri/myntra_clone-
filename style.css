@@ -51,7 +51,7 @@ nav ul li{
     align-items: center;
     }
     header{
-    position: sticky;
+    position: relative;
     top: 1;
     background: white;
     box-shadow: rgba(1, 0, 0, 0.24) 0px 3px 8px;
