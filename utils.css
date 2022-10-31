@@ -10,7 +10,7 @@
     justify-content: center;
 }
 .uppercase{
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 .semibold{
     font-weight:500;
@@ -25,11 +25,12 @@
 }
 .img-x{
     height: 30vh;
-    width: 12vw;
-    margin: 0px 5px;
+    width: 120vw;
+    margin: 0px 50px;
     border-radius: 20px;
 }
 .section2{
+    color:black;
     margin: 20px 0px;
 }
 /* .section3{
