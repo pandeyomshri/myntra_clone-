@@ -19,12 +19,12 @@ margin: 0;padding: 0;
     padding: 0px 12vw;
 }
 .containerheader{
-   
-    padding: 0px 12vw;
+    margin: auto;
+    padding: 10px 12vw;
 }
 nav ul li{
     list-style-type: none;
-    padding: 0 15px;
+    padding: 2 15px;
     
 
 
@@ -38,13 +38,13 @@ nav ul li{
 @media(max-width:1000px)
 {
     header{
-        height: 137pxpx;
+        height: 110pxpx;
     }
     .img-x{
         height: 30vh;
         /* width: 12vw; */
-        margin: 0px 5px;
-        border-radius: 25px;
+        margin: 11px 5px;
+        border-radius: 20px;
     }
     nav{
     flex-direction: column;
@@ -52,9 +52,9 @@ nav ul li{
     }
     header{
     position: sticky;
-    top: 1;
+    top: 0;
     background: white;
-    box-shadow: rgba(1, 0, 0, 0.24) 0px 3px 8px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
     .right{
     flex-direction: column;
@@ -66,8 +66,8 @@ nav ul li{
     }
     nav ul li{
         list-style: none;
-        padding: 1;
-        margin: 0px 20px;
+        padding: 0;
+        margin: 0px 2px;
     }
     .containerheader{
         padding: 0px 12px;
