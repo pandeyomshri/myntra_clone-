@@ -21,9 +21,8 @@ margin: 0;padding: 0;
 .containerheader{
     margin: auto;
     padding: 0px 12vw;
-}
-nav ul li{
-    list-style-type: none;
+
+nav ul
     padding: 0 15px;
     
 
