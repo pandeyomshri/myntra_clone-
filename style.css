@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&family=Work+Sans&display=swap');
 html,body{
-    height: 100%;
-    width: 100%;
-    font-family: 'Poppins', sans-serif;
-font-family: 'Work Sans', sans-serif;
-margin: 0;padding: 0;
+    height: 50%;
+    width: 80%;
+    font-family: 'Poppins', cursive;
+font-family: 'Work Sans', cursive;
+margin: 1px;padding: 1px;
 /* background: white; */
 }
 
