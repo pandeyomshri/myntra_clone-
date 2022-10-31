@@ -11,6 +11,7 @@ margin: 0;padding: 0;
 .left img{
     height: 35px;
     width: 105px;
+    
 }
 
 .container{
@@ -42,6 +43,7 @@ header{
 .rightbox{
     display: flex;
     margin: 12px;
+    background color: black;
 }
 @media(max-width:1000px)
 {
@@ -76,7 +78,7 @@ header{
 
     .left img {
         height: 35px;
-        width: 28px;
+        width: 22px;
     }
     .section2{
         flex-wrap: wrap;
@@ -84,7 +86,7 @@ header{
     }
 }
 .desktopsearchbar{
-    width: 12vw;
+    width: 22vw;
     padding: 3px 17px;
     border-radius: 7px;
     background: #f2ebf45c;
@@ -92,12 +94,13 @@ header{
 
 .homeimg{
     width: 76vw;
-    margin: 30px 0px;
+    margin: 32px 0px;
     cursor: pointer;
 }
 .img1{
     width: 76vw;
     cursor: pointer;
+    height:auto
 }
 .img8{
     width: 98vw;
