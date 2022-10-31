@@ -4,27 +4,27 @@ html,body{
     width: 80%;
     font-family: 'Poppins', cursive;
 font-family: 'Work Sans', cursive;
-margin: 1px;padding: 1px;
-/* background: white; */
+/* margin: 1px;padding: 1px; */
+ background: white; 
 }
 
 .left img{
-    height: 350px;
+    height: 35px;
     width: 105px;
     
 }
 
 .container{
-     margin: auto; 
-    padding: 0px 12vw;
+    /* margin: auto; */
+    padding: 10px 12vw;
 }
 .containerheader{
    
-    padding: 0px 12vw;
+    padding: 10px 12px;
 }
 nav ul li{
     list-style-type: none;
-    /* padding: 0 15px; */
+    padding: 0 15px;
     
 
 
@@ -41,9 +41,10 @@ nav ul li{
         height: 137pxpx;
     }
     .img-x{
+        
         height: 30vh;
-        /* width: 12vw; */
-        margin: 0px 5px;
+         width: 12vw; 
+        margin: auto;
         border-radius: 25px;
     }
     nav{
@@ -74,7 +75,6 @@ nav ul li{
     }
 
     .left img {
-        
         height: 35px;
         width: 22px;
     }
@@ -85,9 +85,9 @@ nav ul li{
 }
 .desktopsearchbar{
     width: 22vw;
-    padding: 13px 170px;
+    padding: 3px 17px;
     border-radius: 7px;
-    background: #f2ebf45c;
+  
 }
 
 .homeimg{
@@ -109,5 +109,5 @@ footer{
     padding:23px;
     text-align: center;
     /* border: 2px solid; */
-    box-shadow: rgba(1, 1, 0, 0.24) 0px 3px 8px
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px
 }
